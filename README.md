@@ -11,6 +11,6 @@ We analyzed data to provide a better visualization focus on theater/plays, launc
 
 ## Results
 
-1- The best month to launch a campaign is between May and June
-2- March is not a good month to launch a campaign
+- The best month to launch a campaign is between May and June
+- March is not a good month to launch a campaign
 - we can conclude that the Campaigns that have a high founding goal failed
