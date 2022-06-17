@@ -1,13 +1,13 @@
 # Kickstarter Data Analysis
- Performing Different  Analysis on Kickstarter Data
+ Performing Analysis on Kickstarter campaign
 ## Overview of Project
-Analysis of the campaigns was preformed base in launch date and the outcomes base in the founding goal amount.
+Analysis of the campaigns was preformed base in launch date and outcomes base in the founding goal amount. using different graphs and pivot tables to make the data project a better visualization.
 
 ### Purpose
 Provide a better visualization about the factor that can influence a campaign to be successful, failed, or canceled.
 
 ## Analysis 
-We analyzed data to provide a better visualization focus on theater/plays, launch date, and founding goals. we provide pivot tables and a line chart to have a better view of this process.
+We analyzed data to providing results focusing on theater/plays, launch date, and founding goals. we provide pivot tables and a line chart to have a better view of this process.
 
 ## Results
 
